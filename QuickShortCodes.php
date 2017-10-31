@@ -12,5 +12,8 @@ namespace QSC;
 
 require_once (plugin_dir_path(__FILE__). 'src/QSC/autoloader.php');
 
-$Shortcode_ContactForm = new Shortcode_ContactForm;
+$Shortcode_ConttForm = new Shortcode_ContactForm;
 $Shortcode_ContactForm->doRegisterShortcode();
+
+$TutorialsShortcodes = new TutorialsShortcodes;
+$TutorialsShortcodes->doRegisterShortcode();

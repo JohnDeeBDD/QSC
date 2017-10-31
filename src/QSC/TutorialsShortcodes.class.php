@@ -2,7 +2,7 @@
 
 namespace QSC;
 
-class Shortcode_ContactForm{
+class TutorialsShortcodes{
 	
 	public function doRegisterShortcode(){
 		add_shortcode('AWS-tut-menu', array($this,'doRenderAndReturnShortcodeAWS'));
