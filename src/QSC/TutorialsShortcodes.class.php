@@ -24,7 +24,6 @@ class TutorialsShortcodes{
 	public function doRenderAndReturnShortcodeWPcodeception(){
 		return '<h2><ul>
 	<li><a href="/?p=15038">WordPress Codeception Tutorial</a></li>
-	<li><a href="/?p=15140">You have to have an IDEA</a></li>
 	<li><a href="/?p=14768">Your first unit test</a></li>
 	<li><a href="/?p=15106">Your first acceptance test</a></li>
 </ul></h2>';
