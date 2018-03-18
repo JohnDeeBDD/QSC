@@ -22,12 +22,12 @@ class TutorialsShortcodes{
 	}
 	
 	public function doRenderAndReturnShortcodeWPcodeception(){
-		return '<h2><ul>
+		return '<strong>TABLE OF CONTENTS:</strong><h2><ol>
 	<li><a href="/?p=15038">WordPress Codeception Tutorial</a></li>
 	<li><a href="/?p=15106">Your first acceptance test</a></li>
 	<li><a href="/?p=14768">Your first unit test</a></li>
 	<li><a href = "/?p=15225">Understanding configuration files</a></li>
-</ul></h2>';
+</ol></h2>';
 	}
 	
 }
