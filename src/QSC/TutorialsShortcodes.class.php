@@ -24,7 +24,8 @@ class TutorialsShortcodes{
 	public function doRenderAndReturnShortcodeWPcodeception(){
 		return '
 <style>
-.toc{ box-sizing: border-style: solid;}
+.toc{border-style: solid;}
+.toc a{text-decoration:underline;}
 </style>
 <div class = "toc">
 <strong>TABLE OF CONTENTS:</strong><ol>
