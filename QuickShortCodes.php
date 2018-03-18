@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Quick Short Codes
-Plugin URI: https://wordpress-bdd.com/
+Plugin URI: https://wp.com/
 Description: Some quick short codes 
-Version: 0.1
+Version: 1.2
 Author: John Dee
 Author URI: https://wordpress-bdd.com
 */
