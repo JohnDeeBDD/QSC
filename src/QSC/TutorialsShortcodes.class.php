@@ -24,10 +24,10 @@ class TutorialsShortcodes{
 	public function doRenderAndReturnShortcodeWPcodeception(){
 		return '
 <style>
-.toc{ box-sizing: border-box;}
+.toc{ box-sizing: border-style: solid;}
 </style>
 <div class = "toc">
-<strong>TABLE OF CONTENTS:</strong>><ol>
+<strong>TABLE OF CONTENTS:</strong><ol>
 	<li><a href="/?p=15038">WordPress Codeception Tutorial</a></li>
 	<li><a href="/?p=15106">Your first acceptance test</a></li>
 	<li><a href="/?p=14768">Your first unit test</a></li>
