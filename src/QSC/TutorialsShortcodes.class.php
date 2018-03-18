@@ -29,10 +29,10 @@ class TutorialsShortcodes{
 </style>
 <div class = "toc">
 <strong>TABLE OF CONTENTS:</strong><ol>
-	<li><a href="/?p=15038">WordPress Codeception Tutorial</a></li>
-	<li><a href="/?p=15106">Your first acceptance test</a></li>
-	<li><a href="/?p=14768">Your first unit test</a></li>
-	<li><a href = "/?p=15225">Understanding configuration files</a></li>
+	<li><a href="/?p=15038">Basic WordPress TDD / BDD with Codeception</a></li>
+	<li><a href="/?p=15106">Your first WordPress Codeception \"cept\" acceptance test</a></li>
+	<li><a href="/?p=14768">Your first WordPress Codeception \"cest\" unit test</a></li>
+	<li><a href = "/?p=15225">Understanding WordPress Codeception configuration files</a></li>
 </ol>
 </div>';
 	}
